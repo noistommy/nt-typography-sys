@@ -1,0 +1,5610 @@
+[
+  {
+    "fontName": "Academy Engraved LET Plain:1.0",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Adelle Sans Devanagari Bold",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Adelle Sans Devanagari Extrabold",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Adelle Sans Devanagari Heavy",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Adelle Sans Devanagari Light",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Adelle Sans Devanagari Regular",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Adelle Sans Devanagari Semibold",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Adelle Sans Devanagari Thin",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "AkayaKanadaka",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "AkayaTelivigala",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Al Bayan Bold",
+    "version": "18.0d1e1"
+  },
+  {
+    "fontName": "Al Bayan Plain",
+    "version": "18.0d1e1"
+  },
+  {
+    "fontName": "Al Firat Regular",
+    "version": "13.0d2e10"
+  },
+  {
+    "fontName": "Al Khalil Bold",
+    "version": "13.0d2e3"
+  },
+  {
+    "fontName": "Al Khalil Regular",
+    "version": "13.0d2e3"
+  },
+  {
+    "fontName": "Al Nile",
+    "version": "13.0d2e2"
+  },
+  {
+    "fontName": "Al Nile Bold",
+    "version": "13.0d2e2"
+  },
+  {
+    "fontName": "Al Rafidain Al Fanni",
+    "version": "18.0d1e1"
+  },
+  {
+    "fontName": "Al Rafidain Regular",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Al Tarikh Regular",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Algiers Regular",
+    "version": "18.0d1e1"
+  },
+  {
+    "fontName": "American Typewriter",
+    "version": "16.0d2e4"
+  },
+  {
+    "fontName": "American Typewriter Bold",
+    "version": "16.0d2e4"
+  },
+  {
+    "fontName": "American Typewriter Condensed",
+    "version": "16.0d2e4"
+  },
+  {
+    "fontName": "American Typewriter Condensed Bold",
+    "version": "16.0d2e4"
+  },
+  {
+    "fontName": "American Typewriter Semibold",
+    "version": "16.0d2e4"
+  },
+  {
+    "fontName": "Andale Mono",
+    "version": "Version 2.00x"
+  },
+  {
+    "fontName": "Annai MN Regular",
+    "version": "16.0d2e3"
+  },
+  {
+    "fontName": "Apple Braille",
+    "version": "13.0d2e27"
+  },
+  {
+    "fontName": "Apple Braille Outline 6 Dot",
+    "version": "13.0d2e27"
+  },
+  {
+    "fontName": "Apple Braille Outline 8 Dot",
+    "version": "13.0d2e27"
+  },
+  {
+    "fontName": "Apple Braille Pinpoint 6 Dot",
+    "version": "13.0d2e27"
+  },
+  {
+    "fontName": "Apple Braille Pinpoint 8 Dot",
+    "version": "13.0d2e27"
+  },
+  {
+    "fontName": "Apple Chancery",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Apple Color Emoji",
+    "version": "18.0d4e1"
+  },
+  {
+    "fontName": "Apple LiGothic Medium",
+    "version": "13.0d2e6"
+  },
+  {
+    "fontName": "Apple SD Gothic Neo Bold",
+    "version": "13.0d1e9"
+  },
+  {
+    "fontName": "Apple SD Gothic Neo ExtraBold",
+    "version": "13.0d2e9"
+  },
+  {
+    "fontName": "Apple SD Gothic Neo Heavy",
+    "version": "13.0d2e9"
+  },
+  {
+    "fontName": "Apple SD Gothic Neo Medium",
+    "version": "13.0d1e9"
+  },
+  {
+    "fontName": "Apple SD Gothic Neo Regular",
+    "version": "13.0d1e9"
+  },
+  {
+    "fontName": "Apple SD Gothic Neo SemiBold",
+    "version": "13.0d1e9"
+  },
+  {
+    "fontName": "Apple SD Gothic Neo Thin",
+    "version": "13.0d1e9"
+  },
+  {
+    "fontName": "Apple Symbols",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "AppleGothic Regular",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "AppleMyungjo Regular",
+    "version": "13.0d1e6"
+  },
+  {
+    "fontName": "Arial",
+    "version": "Version 5.01.2x"
+  },
+  {
+    "fontName": "Arial Black",
+    "version": "Version 5.00.1x"
+  },
+  {
+    "fontName": "Arial Bold",
+    "version": "Version 5.01.2x"
+  },
+  {
+    "fontName": "Arial Bold Italic",
+    "version": "Version 5.00.2x"
+  },
+  {
+    "fontName": "Arial Hebrew",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Arial Hebrew Bold",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Arial Hebrew Scholar",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Arial Hebrew Scholar Bold",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Arial Italic",
+    "version": "Version 5.00.2x"
+  },
+  {
+    "fontName": "Arial Narrow",
+    "version": "Version 2.38.1x"
+  },
+  {
+    "fontName": "Arial Narrow Bold",
+    "version": "Version 2.38.1x"
+  },
+  {
+    "fontName": "Arial Narrow Bold Italic",
+    "version": "Version 2.38.1x"
+  },
+  {
+    "fontName": "Arial Narrow Italic",
+    "version": "Version 2.38.1x"
+  },
+  {
+    "fontName": "Arial Rounded MT Bold",
+    "version": "Version 1.51x"
+  },
+  {
+    "fontName": "Arial Unicode MS",
+    "version": "Version 1.01x"
+  },
+  {
+    "fontName": "Arima Koshi",
+    "version": "Version 1.019"
+  },
+  {
+    "fontName": "Arima Koshi Black",
+    "version": "Version 1.019"
+  },
+  {
+    "fontName": "Arima Koshi Bold",
+    "version": "Version 1.019"
+  },
+  {
+    "fontName": "Arima Koshi ExtraBold",
+    "version": "Version 1.019"
+  },
+  {
+    "fontName": "Arima Koshi Medium",
+    "version": "Version 1.019"
+  },
+  {
+    "fontName": "Arima Koshi Thin",
+    "version": "Version 1.019"
+  },
+  {
+    "fontName": "Arima Madurai",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Arima Madurai Black",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Arima Madurai Bold",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Arima Madurai Medium",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Arima Madurai Semi Bold",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Arima Madurai Thin",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Asphalt Medium",
+    "version": "13.1d1e1"
+  },
+  {
+    "fontName": "Athelas Bold",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Athelas Bold Italic",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Athelas Italic",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Athelas Regular",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Avenir Black",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "Avenir Black Oblique",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "Avenir Book",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "Avenir Book Oblique",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "Avenir Heavy",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "Avenir Heavy Oblique",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "Avenir Medium",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "Avenir Medium Oblique",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "Avenir Next Bold",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Bold Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Condensed Bold",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Condensed Bold Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Condensed Demi Bold",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Condensed Demi Bold Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Condensed Heavy",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Condensed Heavy Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Condensed Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Condensed Medium",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Condensed Medium Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Condensed Regular",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Demi Bold",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Demi Bold Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Heavy",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Heavy Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Medium",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Medium Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Next Regular",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Avenir Oblique",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "Avenir Roman",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "Ayuthaya",
+    "version": "13.0d1e7"
+  },
+  {
+    "fontName": "BM DoHyeon OTF",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "BM HANNA 11yrs old OTF",
+    "version": "18.0d1e4"
+  },
+  {
+    "fontName": "BM HANNA Air OTF",
+    "version": "18.0d1e4"
+  },
+  {
+    "fontName": "BM HANNA Pro OTF",
+    "version": "18.0d1e4"
+  },
+  {
+    "fontName": "BM JUA OTF",
+    "version": "18.0d1e4"
+  },
+  {
+    "fontName": "BM KIRANGHAERANG OTF",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "BM YEONSUNG OTF",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Baghdad Regular",
+    "version": "13.0d1e5"
+  },
+  {
+    "fontName": "Bai Jamjuree Bold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Bai Jamjuree Bold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Bai Jamjuree Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Bai Jamjuree Medium",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Bai Jamjuree Medium Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Bai Jamjuree Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Bai Jamjuree SemiBold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Bai Jamjuree SemiBold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Balega Regular",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Baloo 2 Bold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo 2 ExtraBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo 2 Medium",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo 2 Regular",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo 2 SemiBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Bhai 2 Bold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Bhai 2 ExtraBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Bhai 2 Medium",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Bhai 2 Regular",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Bhai 2 SemiBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Bhaijaan Regular",
+    "version": "Version 1.443"
+  },
+  {
+    "fontName": "Baloo Bhaina 2 Bold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Bhaina 2 ExtraBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Bhaina 2 Medium",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Bhaina 2 Regular",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Bhaina 2 SemiBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Chettan 2 Bold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Chettan 2 ExtraBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Chettan 2 Medium",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Chettan 2 Regular",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Chettan 2 SemiBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Da 2 Bold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Da 2 ExtraBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Da 2 Medium",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Da 2 Regular",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Da 2 SemiBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Paaji 2 Bold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Paaji 2 ExtraBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Paaji 2 Medium",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Paaji 2 Regular",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Paaji 2 SemiBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Tamma 2 Bold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Tamma 2 ExtraBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Tamma 2 Medium",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Tamma 2 Regular",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Tamma 2 SemiBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Tammudu 2 Bold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Tammudu 2 ExtraBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Tammudu 2 Medium",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Tammudu 2 Regular",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Tammudu 2 SemiBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Thambi 2 Bold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Thambi 2 ExtraBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Thambi 2 Medium",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Thambi 2 Regular",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Baloo Thambi 2 SemiBold",
+    "version": "15.0d1e7 (1.640)"
+  },
+  {
+    "fontName": "Bangla MN",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Bangla MN Bold",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Bangla Sangam MN",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Bangla Sangam MN Bold",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Bank Gothic Medium",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Baoli SC Regular",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Baoli TC Regular",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Baskerville",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Baskerville Bold",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Baskerville Bold Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Baskerville Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Baskerville SemiBold",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Baskerville SemiBold Italic",
+    "version": "13.0d1e10"
+  },
+  {
+    "fontName": "Basra Bold",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Basra Regular",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Bebas Neue",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Beirut Regular",
+    "version": "13.0d1e6"
+  },
+  {
+    "fontName": "BiauKai",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Big Caslon Medium",
+    "version": "13.0d1e11"
+  },
+  {
+    "fontName": "Blackmoor LET Plain:2.0",
+    "version": "16.0d1e2"
+  },
+  {
+    "fontName": "BlairMdITC TT Medium",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Bodoni 72 Bold",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Bodoni 72 Book",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Bodoni 72 Book Italic",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Bodoni 72 Oldstyle Bold",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Bodoni 72 Oldstyle Book",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Bodoni 72 Oldstyle Book Italic",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Bodoni 72 Smallcaps Book",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Bodoni Ornaments",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Book Antiqua",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Book Antiqua Bold",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Book Antiqua Bold Italic",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Book Antiqua Italic",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Bookman Old Style",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Bookman Old Style Bold",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Bookman Old Style Bold Italic",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Bookman Old Style Italic",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Bordeaux Roman Bold LET Plain",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Bradley Hand Bold",
+    "version": "14.0d0e1"
+  },
+  {
+    "fontName": "Braganza",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Brush Script MT Italic",
+    "version": "Version 1.52x-1"
+  },
+  {
+    "fontName": "Cambay Devanagari Bold",
+    "version": "Version 1.095"
+  },
+  {
+    "fontName": "Cambay Devanagari Bold Oblique",
+    "version": "Version 1.005"
+  },
+  {
+    "fontName": "Cambay Devanagari Oblique",
+    "version": "Version 1.018"
+  },
+  {
+    "fontName": "Cambay Devanagari Regular",
+    "version": "Version 1.180"
+  },
+  {
+    "fontName": "Canela Bold",
+    "version": "15.0d1e14"
+  },
+  {
+    "fontName": "Canela Bold Italic",
+    "version": "15.0d1e14"
+  },
+  {
+    "fontName": "Canela Deck Bold",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Canela Deck Bold Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Canela Deck Medium",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Canela Deck Medium Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Canela Deck Regular",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Canela Deck Regular Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Canela Regular",
+    "version": "15.0d1e14"
+  },
+  {
+    "fontName": "Canela Regular Italic",
+    "version": "15.0d1e14"
+  },
+  {
+    "fontName": "Canela Text Bold",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Canela Text Bold Italic",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Canela Text Medium",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Canela Text Medium Italic",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Canela Text Regular",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Canela Text Regular Italic",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Capitals",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Carlito",
+    "version": "Version 1.103"
+  },
+  {
+    "fontName": "Carlito Bold",
+    "version": "Version 1.103"
+  },
+  {
+    "fontName": "Carlito Bold Italic",
+    "version": "Version 1.103"
+  },
+  {
+    "fontName": "Carlito Italic",
+    "version": "Version 1.103"
+  },
+  {
+    "fontName": "Catamaran Black",
+    "version": "Version 1.100"
+  },
+  {
+    "fontName": "Catamaran Bold",
+    "version": "Version 1.100"
+  },
+  {
+    "fontName": "Catamaran ExtraBold",
+    "version": "Version 1.100"
+  },
+  {
+    "fontName": "Catamaran ExtraLight",
+    "version": "Version 1.100"
+  },
+  {
+    "fontName": "Catamaran Light",
+    "version": "Version 1.100"
+  },
+  {
+    "fontName": "Catamaran Medium",
+    "version": "Version 1.100"
+  },
+  {
+    "fontName": "Catamaran Regular",
+    "version": "Version 1.100"
+  },
+  {
+    "fontName": "Catamaran SemiBold",
+    "version": "Version 1.100"
+  },
+  {
+    "fontName": "Catamaran Thin",
+    "version": "Version 1.100"
+  },
+  {
+    "fontName": "Century Gothic",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Century Gothic Bold",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Century Gothic Bold Italic",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Century Gothic Italic",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Century Schoolbook",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Century Schoolbook Bold",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Century Schoolbook Bold Italic",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Century Schoolbook Italic",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Chakra Petch Bold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chakra Petch Bold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chakra Petch ExtraLight",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chakra Petch ExtraLight Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chakra Petch Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chakra Petch Light",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chakra Petch Light Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chakra Petch Medium",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chakra Petch Medium Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chakra Petch Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chakra Petch SemiBold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chakra Petch SemiBold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Chalkboard",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Chalkboard Bold",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Chalkboard SE Bold",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Chalkboard SE Light",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Chalkboard SE Regular",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Chalkduster",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Charcoal CY",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Charm Bold",
+    "version": "Version 1.002"
+  },
+  {
+    "fontName": "Charm Regular",
+    "version": "Version 1.002"
+  },
+  {
+    "fontName": "Charmonman Bold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Charmonman Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Charter Black",
+    "version": "14.0d2e1"
+  },
+  {
+    "fontName": "Charter Black Italic",
+    "version": "14.0d2e1"
+  },
+  {
+    "fontName": "Charter Bold",
+    "version": "14.0d2e1"
+  },
+  {
+    "fontName": "Charter Bold Italic",
+    "version": "14.0d2e1"
+  },
+  {
+    "fontName": "Charter Italic",
+    "version": "14.0d2e1"
+  },
+  {
+    "fontName": "Charter Roman",
+    "version": "14.0d2e1"
+  },
+  {
+    "fontName": "Cochin",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Cochin Bold",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Cochin Bold Italic",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Cochin Italic",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Comic Sans MS",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontName": "Comic Sans MS Bold",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontName": "Copperplate",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Copperplate Bold",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Copperplate Light",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Corsiva Hebrew",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Corsiva Hebrew Bold",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Courier",
+    "version": "19.0d1e1"
+  },
+  {
+    "fontName": "Courier Bold",
+    "version": "19.0d1e1"
+  },
+  {
+    "fontName": "Courier Bold Oblique",
+    "version": "19.0d1e1"
+  },
+  {
+    "fontName": "Courier New",
+    "version": "Version 5.00.2x"
+  },
+  {
+    "fontName": "Courier New Bold",
+    "version": "Version 5.00.2x"
+  },
+  {
+    "fontName": "Courier New Bold Italic",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontName": "Courier New Italic",
+    "version": "Version 5.00.1x"
+  },
+  {
+    "fontName": "Courier Oblique",
+    "version": "19.0d1e1"
+  },
+  {
+    "fontName": "DB LCD Temp Black",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "DIN Alternate Bold",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "DIN Condensed Bold",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Damascus Bold",
+    "version": "13.0d3e9"
+  },
+  {
+    "fontName": "Damascus Light",
+    "version": "13.0d3e9"
+  },
+  {
+    "fontName": "Damascus Medium",
+    "version": "13.0d3e9"
+  },
+  {
+    "fontName": "Damascus Regular",
+    "version": "13.0d3e9"
+  },
+  {
+    "fontName": "Damascus Semi Bold",
+    "version": "13.0d3e9"
+  },
+  {
+    "fontName": "Dear Joe Four",
+    "version": "13.0d2e4"
+  },
+  {
+    "fontName": "Dear Joe Four Small",
+    "version": "13.0d2e4"
+  },
+  {
+    "fontName": "Dear Joe Four Small Semibold",
+    "version": "13.0d2e4"
+  },
+  {
+    "fontName": "DecoType Naskh Regular",
+    "version": "14.0d0e1"
+  },
+  {
+    "fontName": "Devanagari MT",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Devanagari MT Bold",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Devanagari Sangam MN",
+    "version": "14.0d1e12"
+  },
+  {
+    "fontName": "Devanagari Sangam MN Bold",
+    "version": "14.0d1e12"
+  },
+  {
+    "fontName": "Didot",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Didot Bold",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Didot Italic",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Dijla Regular",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Diwan Kufi Regular",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Diwan Thuluth Regular",
+    "version": "13.0d1e5"
+  },
+  {
+    "fontName": "Domaine Display",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Domaine Display Bold",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Domaine Display Bold Italic",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Domaine Display Italic",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Domaine Display Medium",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Domaine Display Medium Italic",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Druk Bold",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Bold Italic",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Heavy",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Heavy Italic",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Medium",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Medium Italic",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Super",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Super Italic",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Text Bold",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Wide Bold",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Wide Bold Italic",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Wide Medium",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Druk Wide Medium Italic",
+    "version": "15.0d4e1"
+  },
+  {
+    "fontName": "Euphemia UCAS",
+    "version": "15.0d1e3"
+  },
+  {
+    "fontName": "Euphemia UCAS Bold",
+    "version": "15.0d1e3"
+  },
+  {
+    "fontName": "Euphemia UCAS Italic",
+    "version": "15.0d1e3"
+  },
+  {
+    "fontName": "Fahkwang Bold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fahkwang Bold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fahkwang ExtraLight",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fahkwang ExtraLight Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fahkwang Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fahkwang Light",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fahkwang Light Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fahkwang Medium",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fahkwang Medium Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fahkwang Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fahkwang SemiBold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fahkwang SemiBold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Fakt Slab Stencil Pro Medium",
+    "version": "13.0d3e7"
+  },
+  {
+    "fontName": "Farah Regular",
+    "version": "13.0d2e3"
+  },
+  {
+    "fontName": "Farisi Regular",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Forgotten Futurist Bold",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Forgotten Futurist Bold Italic",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Forgotten Futurist Italic",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Forgotten Futurist Regular",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Forgotten Futurist Shadow",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Founders Grotesk",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Founders Grotesk Bold",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Founders Grotesk Bold Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Founders Grotesk Condensed",
+    "version": "15.0d1e3"
+  },
+  {
+    "fontName": "Founders Grotesk Condensed Bold",
+    "version": "15.0d1e3"
+  },
+  {
+    "fontName": "Founders Grotesk Condensed Semibold",
+    "version": "15.0d1e3"
+  },
+  {
+    "fontName": "Founders Grotesk Light",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Founders Grotesk Light Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Founders Grotesk Medium",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Founders Grotesk Medium Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Founders Grotesk Regular Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Founders Grotesk Semibold",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Founders Grotesk Semibold Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Founders Grotesk Text",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Founders Grotesk Text Bold",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Founders Grotesk Text Bold Italic",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Founders Grotesk Text Regular Italic",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Futura Bold",
+    "version": "16.0d2e1"
+  },
+  {
+    "fontName": "Futura Condensed ExtraBold",
+    "version": "16.0d2e1"
+  },
+  {
+    "fontName": "Futura Condensed Medium",
+    "version": "16.0d2e1"
+  },
+  {
+    "fontName": "Futura Medium",
+    "version": "16.0d2e1"
+  },
+  {
+    "fontName": "Futura Medium Italic",
+    "version": "16.0d2e1"
+  },
+  {
+    "fontName": "GB18030 Bitmap",
+    "version": "18.0d1e1"
+  },
+  {
+    "fontName": "Galvji",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Galvji Bold",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Galvji Bold Oblique",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Galvji Oblique",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Garamond",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Garamond Bold",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Garamond Bold Italic",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Garamond Italic",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Geeza Pro Bold",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "Geeza Pro Regular",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "Geneva",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Geneva CY",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Georgia",
+    "version": "Version 5.00x-4"
+  },
+  {
+    "fontName": "Georgia Bold",
+    "version": "Version 5.00x-4"
+  },
+  {
+    "fontName": "Georgia Bold Italic",
+    "version": "Version 5.00x-4"
+  },
+  {
+    "fontName": "Georgia Italic",
+    "version": "Version 5.00x-4"
+  },
+  {
+    "fontName": "Gill Sans",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Gill Sans Bold",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Gill Sans Bold Italic",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Gill Sans Italic",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Gill Sans Light",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Gill Sans Light Italic",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Gill Sans SemiBold",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Gill Sans SemiBold Italic",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Gill Sans UltraBold",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Gotu",
+    "version": "Version 2.320 (15.0d2e2)"
+  },
+  {
+    "fontName": "Grantha Sangam MN Black",
+    "version": "15.0d1e38"
+  },
+  {
+    "fontName": "Grantha Sangam MN Bold",
+    "version": "15.0d1e37"
+  },
+  {
+    "fontName": "Grantha Sangam MN DemiBold",
+    "version": "15.0d1e38"
+  },
+  {
+    "fontName": "Grantha Sangam MN Light",
+    "version": "15.0d1e38"
+  },
+  {
+    "fontName": "Grantha Sangam MN Medium",
+    "version": "15.0d1e38"
+  },
+  {
+    "fontName": "Grantha Sangam MN Regular",
+    "version": "15.0d1e37"
+  },
+  {
+    "fontName": "Graphik",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Graphik Bold",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Graphik Bold Italic",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Graphik Compact Bold",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Graphik Compact Bold Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Graphik Compact Medium",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Graphik Compact Medium Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Graphik Compact Regular",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Graphik Compact Regular Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Graphik Compact Semibold",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Graphik Compact Semibold Italic",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Graphik Light",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Graphik Light Italic",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Graphik Medium",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Graphik Medium Italic",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Graphik Regular Italic",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Graphik Semibold",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Graphik Semibold Italic",
+    "version": "15.0d2e1"
+  },
+  {
+    "fontName": "Gujarati MT",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Gujarati MT Bold",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Gujarati Sangam MN",
+    "version": "17.0d1e3"
+  },
+  {
+    "fontName": "Gujarati Sangam MN Bold",
+    "version": "17.0d1e3"
+  },
+  {
+    "fontName": "GungSeo Regular",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Gurmukhi MN",
+    "version": "14.0d4e2"
+  },
+  {
+    "fontName": "Gurmukhi MN Bold",
+    "version": "14.0d4e2"
+  },
+  {
+    "fontName": "Gurmukhi MT",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Gurmukhi Sangam MN",
+    "version": "14.0d3e1"
+  },
+  {
+    "fontName": "Gurmukhi Sangam MN Bold",
+    "version": "14.0d3e1"
+  },
+  {
+    "fontName": "Hannotate SC Bold",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Hannotate SC Regular",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Hannotate TC Bold",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Hannotate TC Regular",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "HanziPen SC Bold",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "HanziPen SC Regular",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "HanziPen TC Bold",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "HanziPen TC Regular",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "HeadLineA Regular",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "Hei Regular",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Heiti SC Light",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Heiti SC Medium",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Heiti TC Light",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Heiti TC Medium",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Helvetica",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Helvetica Bold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Helvetica Bold Oblique",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Helvetica CY Bold",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Helvetica CY BoldOblique",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Helvetica CY Oblique",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Helvetica CY Plain",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Helvetica Light",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Helvetica Light Oblique",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Helvetica Neue",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue Bold",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue Bold Italic",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue Condensed Black",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue Condensed Bold",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue Italic",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue Light",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue Light Italic",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue Medium",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue Medium Italic",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue Thin",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue Thin Italic",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue UltraLight",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Neue UltraLight Italic",
+    "version": "17.0d2e1"
+  },
+  {
+    "fontName": "Helvetica Oblique",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Herculanum",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Kaku Gothic Pro W3",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Kaku Gothic Pro W6",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Kaku Gothic ProN W3",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Kaku Gothic ProN W6",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Kaku Gothic Std W8",
+    "version": "17.0d1e38"
+  },
+  {
+    "fontName": "Hiragino Kaku Gothic StdN W8",
+    "version": "17.0d1e38"
+  },
+  {
+    "fontName": "Hiragino Maru Gothic Pro W4",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Maru Gothic ProN W4",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Mincho Pro W3",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Mincho Pro W6",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Mincho ProN W3",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Mincho ProN W6",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Sans CNS W3",
+    "version": "17.0d0e2"
+  },
+  {
+    "fontName": "Hiragino Sans CNS W6",
+    "version": "17.0d0e2"
+  },
+  {
+    "fontName": "Hiragino Sans GB W3",
+    "version": "17.0d0e2"
+  },
+  {
+    "fontName": "Hiragino Sans GB W6",
+    "version": "17.0d0e2"
+  },
+  {
+    "fontName": "Hiragino Sans W0",
+    "version": "17.0d1e30"
+  },
+  {
+    "fontName": "Hiragino Sans W1",
+    "version": "17.0d1e31"
+  },
+  {
+    "fontName": "Hiragino Sans W2",
+    "version": "17.0d1e32"
+  },
+  {
+    "fontName": "Hiragino Sans W3",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Sans W4",
+    "version": "17.0d1e34"
+  },
+  {
+    "fontName": "Hiragino Sans W5",
+    "version": "17.0d1e35"
+  },
+  {
+    "fontName": "Hiragino Sans W6",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Sans W7",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Hiragino Sans W8",
+    "version": "17.0d1e38"
+  },
+  {
+    "fontName": "Hiragino Sans W9",
+    "version": "17.0d1e39"
+  },
+  {
+    "fontName": "Hoefler Text",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Hoefler Text Black",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Hoefler Text Black Italic",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Hoefler Text Italic",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Hoefler Text Ornaments",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Hopper Script Regular",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Hubballi",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "ITF Devanagari Bold",
+    "version": "14.0d3e6"
+  },
+  {
+    "fontName": "ITF Devanagari Book",
+    "version": "14.0d3e6"
+  },
+  {
+    "fontName": "ITF Devanagari Demi",
+    "version": "14.0d3e6"
+  },
+  {
+    "fontName": "ITF Devanagari Light",
+    "version": "14.0d3e6"
+  },
+  {
+    "fontName": "ITF Devanagari Marathi Bold",
+    "version": "14.0d3e6"
+  },
+  {
+    "fontName": "ITF Devanagari Marathi Book",
+    "version": "14.0d3e6"
+  },
+  {
+    "fontName": "ITF Devanagari Marathi Demi",
+    "version": "14.0d3e6"
+  },
+  {
+    "fontName": "ITF Devanagari Marathi Light",
+    "version": "14.0d3e6"
+  },
+  {
+    "fontName": "ITF Devanagari Marathi Medium",
+    "version": "14.0d3e6"
+  },
+  {
+    "fontName": "ITF Devanagari Medium",
+    "version": "14.0d3e6"
+  },
+  {
+    "fontName": "Impact",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontName": "InaiMathi",
+    "version": "13.0d1e5"
+  },
+  {
+    "fontName": "InaiMathi Bold",
+    "version": "13.0d1e5"
+  },
+  {
+    "fontName": "Iowan Old Style Black",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Iowan Old Style Black Italic",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Iowan Old Style Bold",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Iowan Old Style Bold Italic",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Iowan Old Style Italic",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Iowan Old Style Roman",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Iowan Old Style Titling",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Jaini",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Jaini Purva",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Jazz LET Plain:1.0",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Journal Sans New Inline",
+    "version": "13.0d4e1"
+  },
+  {
+    "fontName": "K2D Bold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D Bold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D ExtraBold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D ExtraBold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D ExtraLight",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D ExtraLight Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D Light",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D Light Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D Medium",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D Medium Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D SemiBold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D SemiBold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D Thin",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "K2D Thin Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kai Regular",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Kailasa Bold",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Kailasa Regular",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Kaiti SC Black",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Kaiti SC Bold",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Kaiti SC Regular",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Kaiti TC Black",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Kaiti TC Bold",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Kaiti TC Regular",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Kannada MN",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Kannada MN Bold",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Kannada Sangam MN",
+    "version": "14.0d2e4"
+  },
+  {
+    "fontName": "Kannada Sangam MN Bold",
+    "version": "14.0d2e4"
+  },
+  {
+    "fontName": "Katari Black",
+    "version": "16.0d2e5"
+  },
+  {
+    "fontName": "Katari Black Italic",
+    "version": "16.0d2e5"
+  },
+  {
+    "fontName": "Katari Bold",
+    "version": "16.0d2e5"
+  },
+  {
+    "fontName": "Katari Bold Italic",
+    "version": "16.0d2e5"
+  },
+  {
+    "fontName": "Katari Italic",
+    "version": "16.0d2e5"
+  },
+  {
+    "fontName": "Katari Medium",
+    "version": "16.0d2e5"
+  },
+  {
+    "fontName": "Katari Medium Italic",
+    "version": "16.0d2e5"
+  },
+  {
+    "fontName": "Katari Regular",
+    "version": "16.0d2e5"
+  },
+  {
+    "fontName": "Kavivanar",
+    "version": "Version 1.89"
+  },
+  {
+    "fontName": "Kefa Bold",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Kefa Regular",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Khmer MN",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Khmer MN Bold",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Khmer Sangam MN",
+    "version": "14.0d1e9"
+  },
+  {
+    "fontName": "Klee Demibold",
+    "version": "15.0d1e1"
+  },
+  {
+    "fontName": "Klee Medium",
+    "version": "15.0d1e1"
+  },
+  {
+    "fontName": "KoHo Bold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "KoHo Bold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "KoHo ExtraLight",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "KoHo ExtraLight Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "KoHo Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "KoHo Light",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "KoHo Light Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "KoHo Medium",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "KoHo Medium Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "KoHo Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "KoHo SemiBold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "KoHo SemiBold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan Bold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan Bold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan ExtraLight",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan ExtraLight Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan Light",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan Light Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan Medium",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan Medium Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan SemiBold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kodchasan SemiBold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Kohinoor Bangla",
+    "version": "14.0d2e3"
+  },
+  {
+    "fontName": "Kohinoor Bangla Bold",
+    "version": "14.0d2e3"
+  },
+  {
+    "fontName": "Kohinoor Bangla Light",
+    "version": "14.0d2e3"
+  },
+  {
+    "fontName": "Kohinoor Bangla Medium",
+    "version": "14.0d2e3"
+  },
+  {
+    "fontName": "Kohinoor Bangla Semibold",
+    "version": "14.0d2e3"
+  },
+  {
+    "fontName": "Kohinoor Devanagari Bold",
+    "version": "14.0d5e3"
+  },
+  {
+    "fontName": "Kohinoor Devanagari Light",
+    "version": "14.0d5e3"
+  },
+  {
+    "fontName": "Kohinoor Devanagari Medium",
+    "version": "14.0d5e3"
+  },
+  {
+    "fontName": "Kohinoor Devanagari Regular",
+    "version": "14.0d5e3"
+  },
+  {
+    "fontName": "Kohinoor Devanagari Semibold",
+    "version": "14.0d5e3"
+  },
+  {
+    "fontName": "Kohinoor Gujarati Bold",
+    "version": "14.0d2e16"
+  },
+  {
+    "fontName": "Kohinoor Gujarati Light",
+    "version": "14.0d2e16"
+  },
+  {
+    "fontName": "Kohinoor Gujarati Medium",
+    "version": "14.0d2e16"
+  },
+  {
+    "fontName": "Kohinoor Gujarati Regular",
+    "version": "14.0d2e16"
+  },
+  {
+    "fontName": "Kohinoor Gujarati Semibold",
+    "version": "14.0d2e16"
+  },
+  {
+    "fontName": "Kohinoor Telugu",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Kohinoor Telugu Bold",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Kohinoor Telugu Light",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Kohinoor Telugu Medium",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Kohinoor Telugu Semibold",
+    "version": "14.0d1e3"
+  },
+  {
+    "fontName": "Kokonor Regular",
+    "version": "18.0d1e10"
+  },
+  {
+    "fontName": "Koufi Abjadi Regular",
+    "version": "13.0d1e5"
+  },
+  {
+    "fontName": "Krub Bold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krub Bold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krub ExtraLight",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krub ExtraLight Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krub Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krub Light",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krub Light Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krub Medium",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krub Medium Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krub Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krub SemiBold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krub SemiBold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Krungthep",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "KufiStandardGK Regular",
+    "version": "13.0d1e11"
+  },
+  {
+    "fontName": "Lahore Gurmukhi Bold",
+    "version": "14.0d6e2"
+  },
+  {
+    "fontName": "Lahore Gurmukhi Light",
+    "version": "14.0d6e2"
+  },
+  {
+    "fontName": "Lahore Gurmukhi Medium",
+    "version": "14.0d6e2"
+  },
+  {
+    "fontName": "Lahore Gurmukhi Regular",
+    "version": "14.0d6e2"
+  },
+  {
+    "fontName": "Lahore Gurmukhi SemiBold",
+    "version": "14.0d6e2"
+  },
+  {
+    "fontName": "Laimoon Regular",
+    "version": "13.0d1e5"
+  },
+  {
+    "fontName": "Lantinghei SC Demibold",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Lantinghei SC Extralight",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Lantinghei SC Heavy",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Lantinghei TC Demibold",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Lantinghei TC Extralight",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Lantinghei TC Heavy",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Lao MN",
+    "version": "14.0d1e9"
+  },
+  {
+    "fontName": "Lao MN Bold",
+    "version": "14.0d1e9"
+  },
+  {
+    "fontName": "Lao Sangam MN",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Lava Devanagari Bold",
+    "version": "15.0d2e2"
+  },
+  {
+    "fontName": "Lava Devanagari Heavy",
+    "version": "15.0d2e2"
+  },
+  {
+    "fontName": "Lava Devanagari Medium",
+    "version": "15.0d2e2"
+  },
+  {
+    "fontName": "Lava Devanagari Regular",
+    "version": "15.0d2e2"
+  },
+  {
+    "fontName": "Lava Kannada Bold",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Lava Kannada Heavy",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Lava Kannada Medium",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Lava Kannada Regular",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Lava Telugu Bold",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Lava Telugu Heavy",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Lava Telugu Medium",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "Lava Telugu Regular",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "LiHei Pro",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "LiSong Pro",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Libian SC Regular",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Libian TC Regular",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "LingWai SC Medium",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "LingWai TC Medium",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Lucida Grande",
+    "version": "15.0d1e1"
+  },
+  {
+    "fontName": "Lucida Grande Bold",
+    "version": "15.0d1e1"
+  },
+  {
+    "fontName": "Luminari",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Maku Bold",
+    "version": "14.0d7e8"
+  },
+  {
+    "fontName": "Maku Regular",
+    "version": "14.0d7e8"
+  },
+  {
+    "fontName": "Malayalam MN",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Malayalam MN Bold",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Malayalam Sangam MN",
+    "version": "14.0d4e6"
+  },
+  {
+    "fontName": "Malayalam Sangam MN Bold",
+    "version": "14.0d4e6"
+  },
+  {
+    "fontName": "Mali Bold",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Mali Bold Italic",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Mali ExtraLight",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Mali ExtraLight Italic",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Mali Italic",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Mali Light",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Mali Light Italic",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Mali Medium",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Mali Medium Italic",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Mali Regular",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Mali SemiBold",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Mali SemiBold Italic",
+    "version": "Version 1.010"
+  },
+  {
+    "fontName": "Marion Bold",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Marion Italic",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Marion Regular",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Marker Felt Thin",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Marker Felt Wide",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Menlo Bold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Menlo Bold Italic",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Menlo Italic",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Menlo Regular",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Microsoft Sans Serif",
+    "version": "Version 5.00.1x"
+  },
+  {
+    "fontName": "Mishafi Gold Regular",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Mishafi Regular",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Modak",
+    "version": "Version 1.155"
+  },
+  {
+    "fontName": "Mona Lisa Solid ITC TT",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Monaco",
+    "version": "17.0d1e5"
+  },
+  {
+    "fontName": "Mshtakan",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Mshtakan Bold",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Mshtakan BoldOblique",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Mshtakan Oblique",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Mukta Bold",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta ExtraBold",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta ExtraLight",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Light",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Malar Bold",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Malar ExtraBold",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Malar ExtraLight",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Malar Light",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Malar Medium",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Malar Regular",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Malar SemiBold",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Medium",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Regular",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta SemiBold",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Vaani Bold",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Vaani ExtraBold",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Vaani ExtraLight",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Vaani Light",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Vaani Medium",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Vaani Regular",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "Mukta Vaani SemiBold",
+    "version": "Version 2.538"
+  },
+  {
+    "fontName": "MuktaMahee Bold",
+    "version": "14.0d1e18"
+  },
+  {
+    "fontName": "MuktaMahee ExtraBold",
+    "version": "14.0d1e18"
+  },
+  {
+    "fontName": "MuktaMahee ExtraLight",
+    "version": "14.0d1e18"
+  },
+  {
+    "fontName": "MuktaMahee Light",
+    "version": "14.0d1e18"
+  },
+  {
+    "fontName": "MuktaMahee Medium",
+    "version": "14.0d1e18"
+  },
+  {
+    "fontName": "MuktaMahee Regular",
+    "version": "14.0d1e18"
+  },
+  {
+    "fontName": "MuktaMahee SemiBold",
+    "version": "14.0d1e18"
+  },
+  {
+    "fontName": "Muna Black",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Muna Bold",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Muna Regular",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Myanmar MN",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Myanmar MN Bold",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Myanmar Sangam MN",
+    "version": "14.0d1e8"
+  },
+  {
+    "fontName": "Myanmar Sangam MN Bold",
+    "version": "14.0d1e8"
+  },
+  {
+    "fontName": "Myriad Arabic",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Myriad Arabic Black",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Myriad Arabic Black Italic",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Myriad Arabic Bold",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Myriad Arabic Bold Italic",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Myriad Arabic Italic",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Myriad Arabic Light",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Myriad Arabic Light Italic",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Myriad Arabic Semibold",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Myriad Arabic Semibold Italic",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Nadeem Regular",
+    "version": "18.0d1e1"
+  },
+  {
+    "fontName": "Nanum Brush Script",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Nanum Pen Script",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "NanumGothic",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "NanumGothic Bold",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "NanumGothic ExtraBold",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "NanumMyeongjo",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "NanumMyeongjo Bold",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "NanumMyeongjo ExtraBold",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "New Peninim MT",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "New Peninim MT Bold",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "New Peninim MT Bold Inclined",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "New Peninim MT Inclined",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Niramit Bold",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Niramit Bold Italic",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Niramit ExtraLight",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Niramit ExtraLight Italic",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Niramit Italic",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Niramit Light",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Niramit Light Italic",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Niramit Medium",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Niramit Medium Italic",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Niramit Regular",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Niramit SemiBold",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Niramit SemiBold Italic",
+    "version": "Version 1.001"
+  },
+  {
+    "fontName": "Nisan Regular",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Noteworthy Bold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Noteworthy Light",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Noto Nastaliq Urdu",
+    "version": "18.0d1e1"
+  },
+  {
+    "fontName": "Noto Nastaliq Urdu Bold",
+    "version": "18.0d1e1"
+  },
+  {
+    "fontName": "Noto Sans Adlam Regular",
+    "version": "Version 3.000"
+  },
+  {
+    "fontName": "Noto Sans Armenian Black",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Armenian Bold",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Armenian ExtraBold",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Armenian ExtraLight",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Armenian Light",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Armenian Medium",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Armenian Regular",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Armenian SemiBold",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Armenian Thin",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Avestan Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Bamum Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Bassa Vah Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Batak Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Bhaiksuki Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Brahmi Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Buginese Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Buhid Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Canadian Aboriginal Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Carian Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Caucasian Albanian Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Chakma Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Cham Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Coptic Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Cuneiform Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Cypriot Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Duployan Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Egyptian Hieroglyphs Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Elbasan Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Glagolitic Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Gothic Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Gunjala Gondi Regular",
+    "version": "Version 1.002"
+  },
+  {
+    "fontName": "Noto Sans Hanifi Rohingya Regular",
+    "version": "Version 2.002"
+  },
+  {
+    "fontName": "Noto Sans Hanunoo Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Hatran Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Imperial Aramaic Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Inscriptional Pahlavi Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Inscriptional Parthian Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Javanese Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Kaithi Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Kannada Black",
+    "version": "14.0d1e7"
+  },
+  {
+    "fontName": "Noto Sans Kannada Bold",
+    "version": "14.0d1e7"
+  },
+  {
+    "fontName": "Noto Sans Kannada ExtraBold",
+    "version": "14.0d1e7"
+  },
+  {
+    "fontName": "Noto Sans Kannada ExtraLight",
+    "version": "14.0d1e7"
+  },
+  {
+    "fontName": "Noto Sans Kannada Light",
+    "version": "14.0d1e7"
+  },
+  {
+    "fontName": "Noto Sans Kannada Medium",
+    "version": "14.0d1e7"
+  },
+  {
+    "fontName": "Noto Sans Kannada Regular",
+    "version": "14.0d1e7"
+  },
+  {
+    "fontName": "Noto Sans Kannada SemiBold",
+    "version": "14.0d1e7"
+  },
+  {
+    "fontName": "Noto Sans Kannada Thin",
+    "version": "14.0d1e7"
+  },
+  {
+    "fontName": "Noto Sans Kayah Li Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Kharoshthi Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Khojki Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Khudawadi Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Lepcha Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Limbu Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Linear A Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Linear B Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Lisu Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Lycian Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Lydian Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Mahajani Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Mandaic Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Manichaean Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Marchen Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Masaram Gondi Regular",
+    "version": "Version 1.003"
+  },
+  {
+    "fontName": "Noto Sans Meetei Mayek Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Mende Kikakui Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Meroitic Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Miao Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Modi Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Mongolian Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Mro Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Multani Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Myanmar Black",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Myanmar Bold",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Myanmar ExtraBold",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Myanmar ExtraLight",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Myanmar Light",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Myanmar Medium",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Myanmar Regular",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Myanmar SemiBold",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Myanmar Thin",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans NKo Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Nabataean Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans New Tai Lue Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Newa Regular",
+    "version": "Version 2.002"
+  },
+  {
+    "fontName": "Noto Sans Ogham Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Ol Chiki Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Old Hungarian Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Old Italic Regular",
+    "version": "Version 2.002"
+  },
+  {
+    "fontName": "Noto Sans Old North Arabian Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Old Permic Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Old Persian Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Old South Arabian Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Old Turkic Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Oriya",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Oriya Bold",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Osage Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Osmanya Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Pahawh Hmong Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Palmyrene Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Pau Cin Hau Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans PhagsPa Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Phoenician Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Psalter Pahlavi Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Rejang Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Runic Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Samaritan Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Saurashtra Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Sharada Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Shavian Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Siddham Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Sora Sompeng Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Sundanese Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Syloti Nagri Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Syriac Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Tagalog Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Tagbanwa Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Tai Le Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Tai Tham",
+    "version": "Version 1.04 uh"
+  },
+  {
+    "fontName": "Noto Sans Tai Viet Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Takri Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Thaana Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Tifinagh Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Tirhuta Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Sans Ugaritic Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Vai Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Wancho Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Warang Citi Regular",
+    "version": "Version 3.000"
+  },
+  {
+    "fontName": "Noto Sans Yi Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Sans Zawgyi Black",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Zawgyi Bold",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Zawgyi ExtraBold",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Zawgyi ExtraLight",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Zawgyi Light",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Zawgyi Medium",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Zawgyi Regular",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Zawgyi SemiBold",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Sans Zawgyi Thin",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Noto Serif Ahom Regular",
+    "version": "Version 2.003"
+  },
+  {
+    "fontName": "Noto Serif Balinese Regular",
+    "version": "Version 2.000"
+  },
+  {
+    "fontName": "Noto Serif Hmong Nyiakeng Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Noto Serif Kannada Black",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Serif Kannada Bold",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Serif Kannada ExtraBold",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Serif Kannada ExtraLight",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Serif Kannada Light",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Serif Kannada Medium",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Serif Kannada Regular",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Serif Kannada SemiBold",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Serif Kannada Thin",
+    "version": "Version 2.001"
+  },
+  {
+    "fontName": "Noto Serif Myanmar Black",
+    "version": "14.0d1e5"
+  },
+  {
+    "fontName": "Noto Serif Myanmar Bold",
+    "version": "14.0d1e5"
+  },
+  {
+    "fontName": "Noto Serif Myanmar ExtraBold",
+    "version": "14.0d1e5"
+  },
+  {
+    "fontName": "Noto Serif Myanmar ExtraLight",
+    "version": "14.0d1e5"
+  },
+  {
+    "fontName": "Noto Serif Myanmar Light",
+    "version": "14.0d1e5"
+  },
+  {
+    "fontName": "Noto Serif Myanmar Medium",
+    "version": "14.0d1e5"
+  },
+  {
+    "fontName": "Noto Serif Myanmar Regular",
+    "version": "14.0d1e5"
+  },
+  {
+    "fontName": "Noto Serif Myanmar SemiBold",
+    "version": "14.0d1e5"
+  },
+  {
+    "fontName": "Noto Serif Myanmar Thin",
+    "version": "14.0d1e5"
+  },
+  {
+    "fontName": "Noto Serif Yezidi Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "October Compressed Devanagari Black",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Compressed Devanagari Bold",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Compressed Devanagari ExtraLight",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Compressed Devanagari Hairline",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Compressed Devanagari Heavy",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Compressed Devanagari Light",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Compressed Devanagari Medium",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Compressed Devanagari Regular",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Compressed Devanagari Thin",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Compressed Tamil Black",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "October Compressed Tamil Bold",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "October Compressed Tamil ExtraLight",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "October Compressed Tamil Hairline",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "October Compressed Tamil Heavy",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "October Compressed Tamil Light",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "October Compressed Tamil Medium",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "October Compressed Tamil Regular",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "October Compressed Tamil Thin",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "October Condensed Devanagari Black",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Condensed Devanagari Bold",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Condensed Devanagari ExtraLight",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Condensed Devanagari Hairline",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Condensed Devanagari Heavy",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Condensed Devanagari Light",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Condensed Devanagari Medium",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Condensed Devanagari Regular",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Condensed Devanagari Thin",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Condensed Tamil Black",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Condensed Tamil Bold",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Condensed Tamil ExtraLight",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Condensed Tamil Hairline",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Condensed Tamil Heavy",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Condensed Tamil Light",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Condensed Tamil Medium",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Condensed Tamil Regular",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Condensed Tamil Thin",
+    "version": "15.0d1e4"
+  },
+  {
+    "fontName": "October Devanagari Black",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Devanagari Bold",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Devanagari ExtraLight",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Devanagari Hairline",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Devanagari Heavy",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Devanagari Light",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Devanagari Medium",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Devanagari Regular",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Devanagari Thin",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "October Tamil Black",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "October Tamil Bold",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "October Tamil ExtraLight",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "October Tamil Hairline",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "October Tamil Heavy",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "October Tamil Light",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "October Tamil Medium",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "October Tamil Regular",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "October Tamil Thin",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Optima Bold",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Optima Bold Italic",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Optima ExtraBlack",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Optima Italic",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Optima Regular",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Oriya MN",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Oriya MN Bold",
+    "version": "14.0d1e6"
+  },
+  {
+    "fontName": "Oriya Sangam MN",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Oriya Sangam MN Bold",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Osaka",
+    "version": "16.0d1e2"
+  },
+  {
+    "fontName": "Osaka-Mono",
+    "version": "16.0d1e2"
+  },
+  {
+    "fontName": "PCMyungjo Regular",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "PSL Ornanong Pro",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "PSL Ornanong Pro Bold",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "PSL Ornanong Pro Bold Italic",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "PSL Ornanong Pro Demibold",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "PSL Ornanong Pro Demibold Italic",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "PSL Ornanong Pro Italic",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "PSL Ornanong Pro Light",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "PSL Ornanong Pro Light Italic",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "PT Mono",
+    "version": "13.0d2e4"
+  },
+  {
+    "fontName": "PT Mono Bold",
+    "version": "13.0d2e4"
+  },
+  {
+    "fontName": "PT Sans",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "PT Sans Bold",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "PT Sans Bold Italic",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "PT Sans Caption",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "PT Sans Caption Bold",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "PT Sans Italic",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "PT Sans Narrow",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "PT Sans Narrow Bold",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "PT Serif",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "PT Serif Bold",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "PT Serif Bold Italic",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "PT Serif Caption",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "PT Serif Caption Italic",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "PT Serif Italic",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Padyakke Expanded One",
+    "version": "Version 1.402"
+  },
+  {
+    "fontName": "Palatino",
+    "version": "18.0d1e19"
+  },
+  {
+    "fontName": "Palatino Bold",
+    "version": "18.0d1e19"
+  },
+  {
+    "fontName": "Palatino Bold Italic",
+    "version": "18.0d1e19"
+  },
+  {
+    "fontName": "Palatino Italic",
+    "version": "18.0d1e19"
+  },
+  {
+    "fontName": "Papyrus",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Papyrus Condensed",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Party LET Plain",
+    "version": "16.0d1e2"
+  },
+  {
+    "fontName": "Phosphate Inline",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Phosphate Solid",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "PilGi Regular",
+    "version": "13.0d2e5"
+  },
+  {
+    "fontName": "PingFang HK Light",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang HK Medium",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang HK Regular",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang HK Semibold",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang HK Thin",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang HK Ultralight",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang SC Light",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang SC Medium",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang SC Regular",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang SC Semibold",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang SC Thin",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang SC Ultralight",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang TC Light",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang TC Medium",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang TC Regular",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang TC Semibold",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang TC Thin",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "PingFang TC Ultralight",
+    "version": "18.d1e0"
+  },
+  {
+    "fontName": "Plantagenet Cherokee",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "PortagoITC TT",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Princetown LET",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Produkt Extralight",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Produkt Extralight Italic",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Produkt Light",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Produkt Light Italic",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Produkt Medium",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Produkt Medium Italic",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Produkt Regular",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Produkt Regular Italic",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Proxima Nova",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Proxima Nova Bold",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Proxima Nova Bold It",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Proxima Nova Extrabold",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Proxima Nova Extrabold It",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Proxima Nova It",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Proxima Nova Light",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Proxima Nova Light It",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Proxima Nova Medium",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Proxima Nova Medium It",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Proxima Nova Semibold",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Proxima Nova Semibold It",
+    "version": "15.0d2e3"
+  },
+  {
+    "fontName": "Publico Headline Black",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Publico Headline Black Italic",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Publico Headline Bold",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Publico Headline Bold Italic",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Publico Headline Italic",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Publico Headline Roman",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Publico Text Bold",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Publico Text Bold Italic",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Publico Text Italic",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Publico Text Roman",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Publico Text Semibold",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Publico Text Semibold Italic",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Quotes Caps Regular",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Quotes Script Regular",
+    "version": "15.0d1e3"
+  },
+  {
+    "fontName": "Raanana",
+    "version": "14.0d1e14"
+  },
+  {
+    "fontName": "Raanana Bold",
+    "version": "14.0d1e14"
+  },
+  {
+    "fontName": "Raya Regular",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Rockwell",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Rockwell Bold",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Rockwell Bold Italic",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Rockwell Italic",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "STFangsong",
+    "version": "17.0d1e4"
+  },
+  {
+    "fontName": "STHeiti",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "STIX Two Math",
+    "version": "Version 2.00 b137"
+  },
+  {
+    "fontName": "STIX Two Math Regular",
+    "version": "Version 2.13 b171"
+  },
+  {
+    "fontName": "STIX Two Text Bold",
+    "version": "Version 2.13 b171"
+  },
+  {
+    "fontName": "STIX Two Text Bold Italic",
+    "version": "Version 2.00 b137"
+  },
+  {
+    "fontName": "STIX Two Text Italic Bold Italic",
+    "version": "Version 2.13 b171"
+  },
+  {
+    "fontName": "STIX Two Text Italic Italic",
+    "version": "Version 2.13 b171"
+  },
+  {
+    "fontName": "STIX Two Text Italic Medium Italic",
+    "version": "Version 2.13 b171"
+  },
+  {
+    "fontName": "STIX Two Text Italic SemiBold Italic",
+    "version": "Version 2.13 b171"
+  },
+  {
+    "fontName": "STIX Two Text Medium",
+    "version": "Version 2.13 b171"
+  },
+  {
+    "fontName": "STIX Two Text Regular",
+    "version": "Version 2.13 b171"
+  },
+  {
+    "fontName": "STIX Two Text SemiBold",
+    "version": "Version 2.13 b171"
+  },
+  {
+    "fontName": "STIXGeneral-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXGeneral-BoldItalic",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXGeneral-Italic",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXGeneral-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXIntegralsD-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXIntegralsD-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXIntegralsSm-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXIntegralsSm-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXIntegralsUp-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXIntegralsUp-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXIntegralsUpD-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXIntegralsUpD-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXIntegralsUpSm-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXIntegralsUpSm-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXNonUnicode-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXNonUnicode-BoldItalic",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXNonUnicode-Italic",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXNonUnicode-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXSizeFiveSym-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXSizeFourSym-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXSizeFourSym-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXSizeOneSym-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXSizeOneSym-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXSizeThreeSym-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXSizeThreeSym-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXSizeTwoSym-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXSizeTwoSym-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXVariants-Bold",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STIXVariants-Regular",
+    "version": "Version 1.1.0"
+  },
+  {
+    "fontName": "STKaiti",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "STSong",
+    "version": "17.0d2e3"
+  },
+  {
+    "fontName": "STXihei",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Sama Devanagari Bold",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Sama Devanagari Book",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Sama Devanagari ExtraBold",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Sama Devanagari Medium",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Sama Devanagari Regular",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Sama Devanagari SemiBold",
+    "version": "15.0d1e7"
+  },
+  {
+    "fontName": "Sama Gujarati Bold",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Gujarati Book",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Gujarati ExtraBold",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Gujarati Medium",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Gujarati Regular",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Gujarati SemiBold",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Gurmukhi Bold",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Gurmukhi Book",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Gurmukhi ExtraBold",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Gurmukhi Medium",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Gurmukhi Regular",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Gurmukhi SemiBold",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Kannada Bold",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Kannada Book",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Kannada ExtraBold",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Kannada Medium",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Kannada Regular",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Kannada SemiBold",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Malayalam Bold",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Malayalam Book",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Malayalam ExtraBold",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Malayalam Medium",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Malayalam Regular",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Malayalam SemiBold",
+    "version": "15.0d1e5"
+  },
+  {
+    "fontName": "Sama Tamil Bold",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Tamil Book",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Tamil ExtraBold",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Tamil Medium",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Tamil Regular",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sama Tamil SemiBold",
+    "version": "15.0d1e6"
+  },
+  {
+    "fontName": "Sana Regular",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Santa Fe LET Plain:1.0",
+    "version": "13.0d1e3"
+  },
+  {
+    "fontName": "Sarabun Bold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun Bold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun ExtraBold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun ExtraBold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun ExtraLight",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun ExtraLight Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun Light",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun Light Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun Medium",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun Medium Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun SemiBold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun SemiBold Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun Thin",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sarabun Thin Italic",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Sathu",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Sauber Script",
+    "version": "15.0d1e3"
+  },
+  {
+    "fontName": "Savoye LET Plain:1.0",
+    "version": "13.0d2e4"
+  },
+  {
+    "fontName": "Scheme-Bold",
+    "version": "13.0d3e1"
+  },
+  {
+    "fontName": "SchoolHouse Cursive B",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "SchoolHouse Printed A",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Seravek",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Seravek Bold",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Seravek Bold Italic",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Seravek ExtraLight",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Seravek ExtraLight Italic",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Seravek Italic",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Seravek Light",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Seravek Light Italic",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Seravek Medium",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Seravek Medium Italic",
+    "version": "13.0d3e2"
+  },
+  {
+    "fontName": "Shobhika Bold",
+    "version": "Version 1.040"
+  },
+  {
+    "fontName": "Shobhika Regular",
+    "version": "Version 1.040"
+  },
+  {
+    "fontName": "Shree Devanagari 714",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Shree Devanagari 714 Bold",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Shree Devanagari 714 Bold Italic",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "Shree Devanagari 714 Italic",
+    "version": "13.0d2e1"
+  },
+  {
+    "fontName": "SignPainter-HouseScript",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "SignPainter-HouseScript Semibold",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Silom",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "SimSong Bold",
+    "version": "16.0d3e1"
+  },
+  {
+    "fontName": "SimSong Regular",
+    "version": "16.0d3e1"
+  },
+  {
+    "fontName": "Sinhala MN",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Sinhala MN Bold",
+    "version": "14.0d1e1"
+  },
+  {
+    "fontName": "Sinhala Sangam MN",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Sinhala Sangam MN Bold",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Skia Black",
+    "version": "13.0d1e54"
+  },
+  {
+    "fontName": "Skia Black Condensed",
+    "version": "13.0d1e54"
+  },
+  {
+    "fontName": "Skia Black Extended",
+    "version": "13.0d1e54"
+  },
+  {
+    "fontName": "Skia Bold",
+    "version": "13.0d1e54"
+  },
+  {
+    "fontName": "Skia Condensed",
+    "version": "13.0d1e54"
+  },
+  {
+    "fontName": "Skia Extended",
+    "version": "13.0d1e54"
+  },
+  {
+    "fontName": "Skia Light",
+    "version": "13.0d1e54"
+  },
+  {
+    "fontName": "Skia Light Condensed",
+    "version": "13.0d1e54"
+  },
+  {
+    "fontName": "Skia Light Extended",
+    "version": "13.0d1e54"
+  },
+  {
+    "fontName": "Skia Regular",
+    "version": "13.0d1e54"
+  },
+  {
+    "fontName": "Snell Roundhand",
+    "version": "15.0d1e1"
+  },
+  {
+    "fontName": "Snell Roundhand Black",
+    "version": "15.0d1e1"
+  },
+  {
+    "fontName": "Snell Roundhand Bold",
+    "version": "15.0d1e1"
+  },
+  {
+    "fontName": "Somer Regular",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Songti SC Black",
+    "version": "17.0d2e3"
+  },
+  {
+    "fontName": "Songti SC Bold",
+    "version": "17.0d2e3"
+  },
+  {
+    "fontName": "Songti SC Light",
+    "version": "17.0d2e3"
+  },
+  {
+    "fontName": "Songti SC Regular",
+    "version": "17.0d2e3"
+  },
+  {
+    "fontName": "Songti TC Bold",
+    "version": "17.0d2e3"
+  },
+  {
+    "fontName": "Songti TC Light",
+    "version": "17.0d2e3"
+  },
+  {
+    "fontName": "Songti TC Regular",
+    "version": "17.0d2e3"
+  },
+  {
+    "fontName": "Spot Mono Bold",
+    "version": "16.0d2e2"
+  },
+  {
+    "fontName": "Spot Mono Medium",
+    "version": "16.0d2e2"
+  },
+  {
+    "fontName": "Spot Mono Regular",
+    "version": "16.0d2e2"
+  },
+  {
+    "fontName": "Srisakdi Bold",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Srisakdi Regular",
+    "version": "Version 1.000"
+  },
+  {
+    "fontName": "Stone Sans ITC TT Bold",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Stone Sans Sem ITC TT Semi",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Stone Sans Sem ITC TT SemiIta",
+    "version": "16.0d1e1"
+  },
+  {
+    "fontName": "Sukhumvit Set Bold",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Sukhumvit Set Light",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Sukhumvit Set Medium",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Sukhumvit Set Semi Bold",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Sukhumvit Set Text",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Sukhumvit Set Thin",
+    "version": "17.0d1e2"
+  },
+  {
+    "fontName": "Superclarendon Black",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Superclarendon Black Italic",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Superclarendon Bold",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Superclarendon Bold Italic",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Superclarendon Italic",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Superclarendon Light",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Superclarendon Light Italic",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Superclarendon Regular",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "Symbol",
+    "version": "13.0d2e2"
+  },
+  {
+    "fontName": "Synchro LET",
+    "version": "13.0d4e1"
+  },
+  {
+    "fontName": "Tahoma",
+    "version": "Version 5.01.2x"
+  },
+  {
+    "fontName": "Tahoma Bold",
+    "version": "Version 5.01.1x"
+  },
+  {
+    "fontName": "Tamil MN",
+    "version": "14.0d1e7"
+  },
+  {
+    "fontName": "Tamil MN Bold",
+    "version": "14.0d1e7"
+  },
+  {
+    "fontName": "Tamil Sangam MN",
+    "version": "15.0d1e37"
+  },
+  {
+    "fontName": "Tamil Sangam MN Black",
+    "version": "15.0d1e38"
+  },
+  {
+    "fontName": "Tamil Sangam MN Bold",
+    "version": "15.0d1e37"
+  },
+  {
+    "fontName": "Tamil Sangam MN Demibold",
+    "version": "15.0d1e38"
+  },
+  {
+    "fontName": "Tamil Sangam MN Light",
+    "version": "15.0d1e38"
+  },
+  {
+    "fontName": "Tamil Sangam MN Medium",
+    "version": "15.0d1e38"
+  },
+  {
+    "fontName": "Telugu MN",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Telugu MN Bold",
+    "version": "14.0d1e2"
+  },
+  {
+    "fontName": "Telugu Sangam MN",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "Telugu Sangam MN Bold",
+    "version": "14.0d1e4"
+  },
+  {
+    "fontName": "The Hand Serif Semibold",
+    "version": "13.1d1e1"
+  },
+  {
+    "fontName": "Thonburi",
+    "version": "18.0d1e1"
+  },
+  {
+    "fontName": "Thonburi Bold",
+    "version": "18.0d1e1"
+  },
+  {
+    "fontName": "Thonburi Light",
+    "version": "18.0d1e1"
+  },
+  {
+    "fontName": "Times Bold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Times Bold Italic",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Times Italic",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Times New Roman",
+    "version": "Version 5.01.4x"
+  },
+  {
+    "fontName": "Times New Roman Bold",
+    "version": "Version 5.01.4x"
+  },
+  {
+    "fontName": "Times New Roman Bold Italic",
+    "version": "Version 5.00.3x"
+  },
+  {
+    "fontName": "Times New Roman Italic",
+    "version": "Version 5.00.3x"
+  },
+  {
+    "fontName": "Times Roman",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Tiro Bangla",
+    "version": "15.0d6e1"
+  },
+  {
+    "fontName": "Tiro Bangla Italic",
+    "version": "15.0d6e1"
+  },
+  {
+    "fontName": "Tiro Devanagari Hindi",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Tiro Devanagari Hindi Italic",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Tiro Devanagari Marathi",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Tiro Devanagari Marathi Italic",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Tiro Devanagari Sanskrit",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Tiro Devanagari Sanskrit Italic",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Tiro Gurmukhi",
+    "version": "15.0d6e1"
+  },
+  {
+    "fontName": "Tiro Gurmukhi Italic",
+    "version": "15.0d6e1"
+  },
+  {
+    "fontName": "Tiro Kannada",
+    "version": "15.0d6e1"
+  },
+  {
+    "fontName": "Tiro Kannada Italic",
+    "version": "15.0d6e1"
+  },
+  {
+    "fontName": "Tiro Tamil",
+    "version": "15.0d6e1"
+  },
+  {
+    "fontName": "Tiro Tamil Italic",
+    "version": "15.0d6e1"
+  },
+  {
+    "fontName": "Tiro Telugu",
+    "version": "15.0d6e1"
+  },
+  {
+    "fontName": "Tiro Telugu Italic",
+    "version": "15.0d6e1"
+  },
+  {
+    "fontName": "Toppan Bunkyu Gothic Demibold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Toppan Bunkyu Gothic Regular",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Toppan Bunkyu Midashi Gothic Extrabold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Toppan Bunkyu Midashi Mincho Extrabold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Toppan Bunkyu Mincho Regular",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Trattatello",
+    "version": "13.0d2e2"
+  },
+  {
+    "fontName": "Trebuchet MS",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontName": "Trebuchet MS Bold",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontName": "Trebuchet MS Bold Italic",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontName": "Trebuchet MS Italic",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontName": "Tsukushi A Round Gothic Bold",
+    "version": "15.0d1e1"
+  },
+  {
+    "fontName": "Tsukushi A Round Gothic Regular",
+    "version": "15.0d1e1"
+  },
+  {
+    "fontName": "Tsukushi B Round Gothic Bold",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Tsukushi B Round Gothic Regular",
+    "version": "15.0d1e2"
+  },
+  {
+    "fontName": "Tw Cen MT",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Tw Cen MT Bold",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Tw Cen MT Bold Italic",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Tw Cen MT Italic",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Type Embellishments One LET Embellishments One LET Plain:1.0",
+    "version": "13.0d2e7"
+  },
+  {
+    "fontName": "Verdana",
+    "version": "Version 5.01x"
+  },
+  {
+    "fontName": "Verdana Bold",
+    "version": "Version 5.01x"
+  },
+  {
+    "fontName": "Verdana Bold Italic",
+    "version": "Version 5.01x"
+  },
+  {
+    "fontName": "Verdana Italic",
+    "version": "Version 5.01x"
+  },
+  {
+    "fontName": "Waseem Light",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Waseem Regular",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Wawati SC Regular",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Wawati TC Regular",
+    "version": "15.0d1e3"
+  },
+  {
+    "fontName": "Webdings",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontName": "Weibei SC Bold",
+    "version": "13.0d2e2"
+  },
+  {
+    "fontName": "Weibei TC Bold",
+    "version": "13.0d2e2"
+  },
+  {
+    "fontName": "Wingdings",
+    "version": "Version 5.00x"
+  },
+  {
+    "fontName": "Wingdings 2",
+    "version": "Version 1.55x"
+  },
+  {
+    "fontName": "Wingdings 3",
+    "version": "Version 1.55x"
+  },
+  {
+    "fontName": "Xingkai SC Bold",
+    "version": "17.0d1e3"
+  },
+  {
+    "fontName": "Xingkai SC Light",
+    "version": "17.0d1e3"
+  },
+  {
+    "fontName": "Xingkai TC Bold",
+    "version": "17.0d1e3"
+  },
+  {
+    "fontName": "Xingkai TC Light",
+    "version": "17.0d1e3"
+  },
+  {
+    "fontName": "Yaziji Regular",
+    "version": "13.0d1e4"
+  },
+  {
+    "fontName": "YuGothic Bold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "YuGothic Medium",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "YuKyokasho Bold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "YuKyokasho Medium",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "YuKyokasho Yoko Bold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "YuKyokasho Yoko Medium",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "YuMincho +36p Kana Demibold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "YuMincho +36p Kana Extrabold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "YuMincho +36p Kana Medium",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "YuMincho Demibold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "YuMincho Extrabold",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "YuMincho Medium",
+    "version": "17.0d1e1"
+  },
+  {
+    "fontName": "Yuanti SC Bold",
+    "version": "17.0d1e4"
+  },
+  {
+    "fontName": "Yuanti SC Light",
+    "version": "17.0d1e4"
+  },
+  {
+    "fontName": "Yuanti SC Regular",
+    "version": "17.0d1e4"
+  },
+  {
+    "fontName": "Yuanti TC Bold",
+    "version": "17.0d1e4"
+  },
+  {
+    "fontName": "Yuanti TC Light",
+    "version": "17.0d1e4"
+  },
+  {
+    "fontName": "Yuanti TC Regular",
+    "version": "17.0d1e4"
+  },
+  {
+    "fontName": "Yuppy SC Regular",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Yuppy TC Regular",
+    "version": "13.0d1e1"
+  },
+  {
+    "fontName": "Zapf Dingbats",
+    "version": "13.0d1e2"
+  },
+  {
+    "fontName": "Zapfino",
+    "version": "18.0d1e2"
+  },
+  {
+    "fontName": "Zawra Bold",
+    "version": "13.0d1e5"
+  },
+  {
+    "fontName": "Zawra Heavy",
+    "version": "13.0d1e5"
+  }
+]
