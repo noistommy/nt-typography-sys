@@ -80,6 +80,8 @@ const searchedList = computed(() => {
   return AppleFonts.filter((item) => item.fontName.indexOf(search.value) === 0)
 })
 
+const language = ref('ko')
+
 onMounted(() => {
   if (block.value) {
     titleBaseline = getBaselineOffset(100)
@@ -93,14 +95,24 @@ onMounted(() => {
   <div class="block" ref="block" :style="{ fontFamily: fontInfo.name }">
     Lqfglx<span ref="base"></span>
   </div>
-  <div class="font-controller">
+  <div class="font-controller" :style="{ fontFamily: fontInfo.name }">
     <div class="insert-font ga-input button right">
       <input type="text" v-model="search" @keydown.enter.prevent="applyFont" />
-      <div class="ga-button icon" @click="applyFont">
+      <div
+        class="ga-button icon"
+        @click="applyFont"
+        v-nt-tooltip:bottom="`폰트이름을 입력 후 엔터 또는 버튼을 클릭하세요.`"
+      >
         <i class="icon fa fa-text"></i>
       </div>
     </div>
-    <div class="set-size-range" ref="slider" @mousedown="controlStart" @touchstart="controlStart">
+    <div
+      class="set-size-range"
+      ref="slider"
+      v-nt-tooltip:bottom="`폰트 사이즈 설정`"
+      @mousedown="controlStart"
+      @touchstart="controlStart"
+    >
       <div class="size-result primary" ref="result" :style="{ width: `${resultValue}px` }"></div>
       <div
         class="size-handle ga-button icon tiny"
@@ -112,7 +124,7 @@ onMounted(() => {
     </div>
   </div>
   <div class="font-info-wrapper">
-    <div class="font-info-title">
+    <div class="font-info-title" :style="{ fontFamily: fontInfo.name }">
       <span class="ga-tag label blue bold">Font Name</span>
       <span class="font-name">{{ fontInfo.name }}</span>
     </div>
@@ -127,7 +139,7 @@ onMounted(() => {
         <span></span>
       </div>
     </div>
-    <div class="baseline-ratio">
+    <div class="baseline-ratio" :style="{ fontFamily: fontInfo.name }">
       <span class="bold">Baseline Ratio:</span> {{ baselineOffset }}px / {{ fontInfo.size }}px ({{
         Math.round((baselineOffset / fontInfo.size) * 100) / 100
       }})
@@ -146,6 +158,33 @@ onMounted(() => {
     <div v-for="num in 9" :class="`weight-${num}00`" :key="num">
       {{ fontInfo.name }} weight: {{ num }}00
     </div>
+  </div>
+  <div class="prev-lorem" :style="{ fontFamily: fontInfo.name, fontSize: fontInfo.size + 'px' }">
+    <div class="ga-buttons">
+      <div
+        class="ga-button"
+        v-for="lang in ['ko', 'en', 'ja']"
+        :key="lang"
+        :class="{ selected: language === lang }"
+        @click="language = lang"
+      >
+        {{ lang.toUpperCase() }}
+      </div>
+    </div>
+    <p v-if="language === 'ko'">
+      대통령은 국가의 독립·영토의 보전·국가의 계속성과 헌법을 수호할 책무를 진다. 모든 국민은 법률이
+      정하는 바에 의하여 공무담임권을 가진다. 재산권의 행사는 공공복리에 적합하도록 하여야 한다.
+      대한민국은 민주공화국이다.
+    </p>
+    <p class="en" v-if="language === 'en'">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum aliquam nihil qui voluptatem,
+      dolorum, corporis sint consequatur exercitationem sapiente voluptatibus delectus. Perferendis
+      omnis accusantium magnam minima mollitia voluptatibus rem eos.
+    </p>
+    <p class="ja" v-if="language === 'ja'">
+      会社自体はとても成功しています 快楽 苦痛 肉体的な快楽を 実践するために
+      賢明な人によって選ばれたのです 告発者の喜びに ほんの少しの同情をもって
+    </p>
   </div>
   <div class="font-list">
     <div
@@ -260,7 +299,7 @@ onMounted(() => {
     background-color: transparent;
     top: 0;
     left: 0;
-    color: gray;
+    color: var(--color-text);
     opacity: 0;
     &:hover {
       opacity: 0.3;
@@ -270,6 +309,12 @@ onMounted(() => {
 .prev-font-weight {
   padding: 20px;
   border-bottom: 1px solid var(--color-border);
+}
+.prev-lorem {
+  padding: 20px;
+  .ga-buttons {
+    margin-bottom: 20px;
+  }
 }
 .about {
   .weight-100 {

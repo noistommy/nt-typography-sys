@@ -25,6 +25,7 @@
     "prettier": "^3.0.3",
     "sass": "^1.74.1",
     "vite": "^5.1.6",
-    "vite-plugin-vue-devtools": "^7.0.18"
+    "vite-plugin-vue-devtools": "^7.0.18",
+    "vue-nt-tooltip": "^0.1.3"
   }
 }
