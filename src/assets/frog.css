@@ -33832,7 +33832,7 @@ pre {
   font-size: 1em;
   line-height: 1.5;
   font-weight: 400;
-  font-family: 'Spoqa Han Sans', 'Apple SD Gothic Neo', '돋움', dotum, sans-serif;
+  /* font-family: 'Spoqa Han Sans', 'Apple SD Gothic Neo', '돋움', dotum, sans-serif; */
 }
 
 a {
@@ -38219,7 +38219,6 @@ h5,
 }
 .ga-form .field input,
 .ga-form .field textarea {
-  font-family: 'Spoqa Han Sans';
   vertical-align: baseline;
   font-size: 1rem;
   padding: 0.6785714286em 1em;
@@ -38372,7 +38371,6 @@ h5,
   font-weight: 400;
   line-height: 1em;
   border-radius: 2em;
-  font-family: 'Spoqa Han Sans';
   display: inline-block;
   margin: 0 0.14285714em;
   background-color: var(--suf);
