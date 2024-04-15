@@ -1,7 +1,9 @@
 <script setup>
 import { ref, reactive, computed, onMounted } from 'vue'
-import AppleFonts from '@/data/apple-fonts.json'
+import AppleFonts from '@/data/fonts_maxos_13.json'
+import WindowFonts from '@/data/fonts_win_10.json'
 
+const fontList = [...AppleFonts, ...WindowFonts]
 const block = ref(null)
 const base = ref(null)
 
@@ -77,7 +79,7 @@ const findPosToSize = (size) => {
 
 const searchedList = computed(() => {
   if (search.value === '') return []
-  return AppleFonts.filter((item) => item.fontName.indexOf(search.value) === 0)
+  return fontList.filter((item) => item.family.indexOf(search.value) === 0)
 })
 
 const language = ref('ko')
@@ -121,6 +123,16 @@ onMounted(() => {
       >
         {{ fontInfo.size }}
       </div>
+    </div>
+  </div>
+  <div class="font-list">
+    <div
+      class="font-item ga-tag label"
+      v-for="(font, i) in searchedList"
+      :key="i"
+      @click="search = font.family"
+    >
+      {{ font.name }}
     </div>
   </div>
   <div class="font-info-wrapper">
@@ -185,16 +197,6 @@ onMounted(() => {
       会社自体はとても成功しています 快楽 苦痛 肉体的な快楽を 実践するために
       賢明な人によって選ばれたのです 告発者の喜びに ほんの少しの同情をもって
     </p>
-  </div>
-  <div class="font-list">
-    <div
-      class="font-item ga-tag label"
-      v-for="font in searchedList"
-      :key="font.fontName"
-      @click="search = font.fontName"
-    >
-      {{ font.fontName }}
-    </div>
   </div>
 </template>
 <style lang="scss" scoped>
@@ -349,5 +351,11 @@ onMounted(() => {
 }
 .font-list {
   padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  .font-item {
+    cursor: pointer;
+  }
 }
 </style>
