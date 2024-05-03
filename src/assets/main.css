@@ -1,6 +1,9 @@
+/* @import './fonts/Pretendard/pretendard.css'; */
+@import url('https://dream-cdn.beusable.net/font/pretendard/pretendard-subset.css');
 @import './base.css';
 
 #app {
+  font-family: Pretendard;
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;

@@ -3,14 +3,14 @@ import { ref, reactive, computed, onMounted } from 'vue'
 import AppleFonts from '@/data/fonts_maxos_13.json'
 import WindowFonts from '@/data/fonts_win_10.json'
 
-const fontList = [...AppleFonts, ...WindowFonts]
+// const fontList = [...AppleFonts, ...WindowFonts]
 const block = ref(null)
 const base = ref(null)
 
 let titleBaseline = 0
-const search = ref('Noto Sans KR')
+const search = ref('Pretendard')
 const fontInfo = reactive({
-  name: 'Noto Sans KR',
+  name: 'Pretendard',
   size: 15
 })
 const baselineOffset = computed(() => {
@@ -77,9 +77,14 @@ const findPosToSize = (size) => {
   return (size - MIN_SIZE) * (slider.value.offsetWidth / (MAX_SIZE - MIN_SIZE))
 }
 
-const searchedList = computed(() => {
+const searchedApplyList = computed(() => {
   if (search.value === '') return []
-  return fontList.filter((item) => item.family.indexOf(search.value) === 0)
+  return AppleFonts.filter((item) => item.family.indexOf(search.value) === 0)
+})
+
+const searchedWinList = computed(() => {
+  if (search.value === '') return []
+  return WindowFonts.filter((item) => item.family.indexOf(search.value) === 0)
 })
 
 const language = ref('ko')
@@ -125,10 +130,24 @@ onMounted(() => {
       </div>
     </div>
   </div>
-  <div class="font-list">
+  <div class="font-list" :style="{ fontFamily: fontInfo.name }">
+    <div class="ga-button tiny icon red">
+      <i class="fa-brands fa-apple"></i>
+    </div>
     <div
-      class="font-item ga-tag label"
-      v-for="(font, i) in searchedList"
+      class="font-item ga-tag label red"
+      v-for="(font, i) in searchedApplyList"
+      :key="i"
+      @click="search = font.family"
+    >
+      {{ font.name }}
+    </div>
+    <div class="ga-button tiny icon deeppurple">
+      <i class="fa-brands fa-windows"></i>
+    </div>
+    <div
+      class="font-item ga-tag label deeppurple"
+      v-for="(font, i) in searchedWinList"
       :key="i"
       @click="search = font.family"
     >
@@ -137,7 +156,7 @@ onMounted(() => {
   </div>
   <div class="font-info-wrapper">
     <div class="font-info-title" :style="{ fontFamily: fontInfo.name }">
-      <span class="ga-tag label blue bold">Font Name</span>
+      <span class="ga-tag label deepblue bold">Font Name</span>
       <span class="font-name">{{ fontInfo.name }}</span>
     </div>
     <div class="main-font-sample">
@@ -145,6 +164,7 @@ onMounted(() => {
       <div
         class="area"
         :style="{ fontFamily: fontInfo.name, '--bl': titleBaseline + 'px' }"
+        data-text="AaBb 가나다"
         @click="saveFont"
       >
         AaBb 가나다
@@ -269,7 +289,7 @@ onMounted(() => {
 .area {
   --bl: 0;
   font-size: 100px;
-  display: inline-block;
+  position: relative;
   line-height: 1;
   background-color: var(--color-border);
   margin: 0;
@@ -277,6 +297,7 @@ onMounted(() => {
   position: relative;
   outline: none;
   text-shadow: 0px 0px 1px var(--color-text);
+  overflow: hidden;
   span {
     position: absolute;
     width: 100%;
@@ -306,6 +327,26 @@ onMounted(() => {
     &:hover {
       opacity: 0.3;
     }
+  }
+  &:before,
+  &:after {
+    content: attr(data-text);
+    position: absolute;
+    //z-index: -1;
+    top: 0;
+    left: 0;
+  }
+  &:before {
+    // text-shadow: -2px 0px 0px red;
+    left: -3px;
+    clip-path: inset(0 0 60% 0);
+    animation: glitch-text 3s infinite alternate;
+  }
+  &:after {
+    //text-shadow: 2px 0px 0px blue;
+    left: 3px;
+    clip-path: inset(40% 0 0 0);
+    animation: glitch-text2 3s infinite alternate;
   }
 }
 .prev-font-weight {
@@ -356,6 +397,47 @@ onMounted(() => {
   gap: 5px;
   .font-item {
     cursor: pointer;
+  }
+}
+
+@keyframes glitch-text {
+  0% {
+    clip-path: inset(10% 0 0 0);
+  }
+  29% {
+    clip-path: inset(10% 0 0 0);
+  }
+  30% {
+    clip-path: inset(30% 0 0 0);
+  }
+  60% {
+    clip-path: inset(60% 0 0 0);
+  }
+  80% {
+    clip-path: inset(55% 0 0 0);
+  }
+  100% {
+    clip-path: inset(85% 0 0 0);
+  }
+}
+@keyframes glitch-text2 {
+  0% {
+    clip-path: inset(0 0 90% 0);
+  }
+  29% {
+    clip-path: inset(0 0 90% 0);
+  }
+  30% {
+    clip-path: inset(0 0 70% 0);
+  }
+  60% {
+    clip-path: inset(0 0 40% 0);
+  }
+  80% {
+    clip-path: inset(0 0 45% 0);
+  }
+  100% {
+    clip-path: inset(0 0 15% 0);
   }
 }
 </style>
