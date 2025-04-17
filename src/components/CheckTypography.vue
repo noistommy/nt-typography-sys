@@ -1,16 +1,19 @@
 <script setup>
 import { ref, reactive, computed, onMounted } from 'vue'
+import { useRoute } from 'vue-router'
 import AppleFonts from '@/data/fonts_maxos_13.json'
 import WindowFonts from '@/data/fonts_win_10.json'
 
+const route = useRoute()
+console.log(route.name, route.params)
 // const fontList = [...AppleFonts, ...WindowFonts]
 const block = ref(null)
 const base = ref(null)
 
 let titleBaseline = 0
-const search = ref('Pretendard')
+const search = ref('Pretendard Variable')
 const fontInfo = reactive({
-  name: 'Pretendard',
+  name: 'Pretendard Variable',
   size: 15
 })
 const baselineOffset = computed(() => {
@@ -67,6 +70,12 @@ const controlEnd = () => {
   window.removeEventListener('touchend', controlEnd)
 }
 
+const testScript = {
+  ko: '대통령은 국가의 독립·영토의 보전·국가의 계속성과 헌법을 수호할 책무를 진다. 모든 국민은 법률이 정하는 바에 의하여 공무담임권을 가진다. 재산권의 행사는 공공복리에 적합하도록 하여야 한다. 대한민국은 민주공화국이다.',
+  en: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum aliquam nihil qui voluptatem, dolorum, corporis sint consequatur exercitationem sapiente voluptatibus delectus. Perferendis omnis accusantium magnam minima mollitia voluptatibus rem eos.',
+  ja: '会社自体はとても成功しています 快楽 苦痛 肉体的な快楽を 実践するために賢明な人によって選ばれたのです 告発者の喜びに ほんの少しの同情をもって'
+}
+
 const convertedSize = () => {
   return (
     Math.round(resultValue.value / (slider.value.offsetWidth / (MAX_SIZE - MIN_SIZE))) + MIN_SIZE
@@ -88,6 +97,14 @@ const searchedWinList = computed(() => {
 })
 
 const language = ref('ko')
+
+const setTextEdit = () => {
+  if (window.getSelection().toString().length > 0) {
+    const selection = window.getSelection()
+    const range = selection.getRangeAt(0)
+    console.log(selection.toString(), range, range.getBoundingClientRect())
+  }
+}
 
 onMounted(() => {
   if (block.value) {
@@ -160,7 +177,7 @@ onMounted(() => {
       <span class="font-name">{{ fontInfo.name }}</span>
     </div>
     <div class="main-font-sample">
-      <div class="area ghost">AaBb 가나다</div>
+      <!-- <div class="area ghost">AaBb 가나다</div> -->
       <div
         class="area"
         :style="{ fontFamily: fontInfo.name, '--bl': titleBaseline + 'px' }"
@@ -176,6 +193,10 @@ onMounted(() => {
         Math.round((baselineOffset / fontInfo.size) * 100) / 100
       }})
     </div>
+    <div class="font-in-button">
+      <div class="custom-button">테스트</div>
+      <div class="custom-button">Test</div>
+    </div>
     <div class="sample" :style="{ fontFamily: fontInfo.name }">
       <p>가나다라마바사아자차카타파하</p>
       <p>ABCDEFGHIJKLMNOPQRSTUVWXYZ</p>
@@ -188,10 +209,14 @@ onMounted(() => {
     :style="{ fontFamily: fontInfo.name, fontSize: fontInfo.size + 'px' }"
   >
     <div v-for="num in 9" :class="`weight-${num}00`" :key="num">
-      {{ fontInfo.name }} weight: {{ num }}00
+      현재 글꼴: {{ fontInfo.name }} | weight(굵기): {{ num }}00
     </div>
   </div>
-  <div class="prev-lorem" :style="{ fontFamily: fontInfo.name, fontSize: fontInfo.size + 'px' }">
+  <div
+    class="prev-lorem"
+    :style="{ fontFamily: fontInfo.name, fontSize: fontInfo.size + 'px' }"
+    @mouseup="setTextEdit"
+  >
     <div class="ga-buttons">
       <div
         class="ga-button"
@@ -203,20 +228,9 @@ onMounted(() => {
         {{ lang.toUpperCase() }}
       </div>
     </div>
-    <p v-if="language === 'ko'">
-      대통령은 국가의 독립·영토의 보전·국가의 계속성과 헌법을 수호할 책무를 진다. 모든 국민은 법률이
-      정하는 바에 의하여 공무담임권을 가진다. 재산권의 행사는 공공복리에 적합하도록 하여야 한다.
-      대한민국은 민주공화국이다.
-    </p>
-    <p class="en" v-if="language === 'en'">
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum aliquam nihil qui voluptatem,
-      dolorum, corporis sint consequatur exercitationem sapiente voluptatibus delectus. Perferendis
-      omnis accusantium magnam minima mollitia voluptatibus rem eos.
-    </p>
-    <p class="ja" v-if="language === 'ja'">
-      会社自体はとても成功しています 快楽 苦痛 肉体的な快楽を 実践するために
-      賢明な人によって選ばれたのです 告発者の喜びに ほんの少しの同情をもって
-    </p>
+    <p v-if="language === 'ko'">{{ testScript.ko }}</p>
+    <p class="en" v-if="language === 'en'">{{ testScript.en }}</p>
+    <p class="ja" v-if="language === 'ja'">{{ testScript.ja }}</p>
   </div>
 </template>
 <style lang="scss" scoped>
@@ -338,15 +352,15 @@ onMounted(() => {
   }
   &:before {
     // text-shadow: -2px 0px 0px red;
-    left: -3px;
-    clip-path: inset(0 0 60% 0);
-    animation: glitch-text 3s infinite alternate;
+    //left: -3px;
+    //clip-path: inset(0 0 60% 0);
+    // animation: glitch-text 3s infinite alternate;
   }
   &:after {
     //text-shadow: 2px 0px 0px blue;
-    left: 3px;
-    clip-path: inset(40% 0 0 0);
-    animation: glitch-text2 3s infinite alternate;
+    //left: 3px;
+    //clip-path: inset(40% 0 0 0);
+    // animation: glitch-text2 3s infinite alternate;
   }
 }
 .prev-font-weight {
@@ -438,6 +452,16 @@ onMounted(() => {
   }
   100% {
     clip-path: inset(0 0 15% 0);
+  }
+}
+.custom-button {
+  padding: 8px 12px;
+  background-color: #3d3d3d;
+  display: inline-block;
+  line-height: 1;
+  border-radius: 4px;
+  & + .custom-button {
+    margin-left: 5px;
   }
 }
 </style>

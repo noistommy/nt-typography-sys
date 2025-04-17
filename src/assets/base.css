@@ -49,7 +49,9 @@
     --color-text: var(--vt-c-text-dark-2);
   }
 }
-
+* {
+  font: inherit;
+}
 *,
 *::before,
 *::after {
@@ -66,7 +68,7 @@ body {
     color 0.5s, */
   /* background-color 0.5s; */
   line-height: 1.6;
-  /* font-family:
+  font-family:
     Inter,
     -apple-system,
     BlinkMacSystemFont,
@@ -78,7 +80,7 @@ body {
     'Fira Sans',
     'Droid Sans',
     'Helvetica Neue',
-    sans-serif; */
+    sans-serif;
   font-size: 15px;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
